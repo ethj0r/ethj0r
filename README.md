@@ -4,4 +4,4 @@
 ### Let's connect
 ##### [Jordhy's Portfolio](https://ethjor.vercel.app) | [LinkedIn](https://linkedin.com/in/ethjor)
 
-> Exploring the intersectin of algorithms, systems, and machine learning.
+> Exploring the intersection of algorithms, systems, and machine learning.
