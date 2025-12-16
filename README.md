@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile.gif" width="150" />
+  <img src="./profile.gif" width="100%" />
 </p>
 
 ## Hi, I'm Jordhy Branenda 👋🏻
