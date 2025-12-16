@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile.png" width="150" />
+</p>
+
 ## Hi, I'm Jordhy Branenda 👋🏻
 #### Computer Science Sophomore @ Bandung Institute of Technology
 
