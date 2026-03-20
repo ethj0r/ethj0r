@@ -2,8 +2,8 @@
   <img src="./profile.gif" width="100%" />
 </p>
 
-## Hi, I'm Jordhy 👋🏻
-#### Computer Science Sophomore @ ITB
+## Hi, Jordhy here 👋🏻💻
+#### Computer Science Undergraduate @ ITB | AI/ML, SWE
 
 ### Let's connect
-##### [Jordhy's Portfolio](https://ethjor.vercel.app) | [LinkedIn](https://linkedin.com/in/ethjor)
+##### [Web Porto](https://ethjor.vercel.app) | [LinkedIn](https://linkedin.com/in/ethjor)
