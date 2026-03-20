@@ -7,7 +7,5 @@
 
 > building things.
 
----
-
-### Let's connect
+#### Let's connect
 ##### [Web Porto](https://ethjor.vercel.app) | [LinkedIn](https://linkedin.com/in/ethjor)
