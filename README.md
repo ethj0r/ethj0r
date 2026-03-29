@@ -8,4 +8,4 @@
 > building things.
 
 #### Let's connect
-##### [ethjor.tech](ethjor.tech) | [LinkedIn](https://linkedin.com/in/ethjor)
+##### [ethjor.tech](https://www.ethjor.tech) | [LinkedIn](https://linkedin.com/in/ethjor)
