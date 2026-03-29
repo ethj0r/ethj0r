@@ -8,4 +8,4 @@
 > building things.
 
 #### Let's connect
-##### [Web Porto](https://ethjor.vercel.app) | [LinkedIn](https://linkedin.com/in/ethjor)
+##### [ethjor.tech](ethjor.tech) | [LinkedIn](https://linkedin.com/in/ethjor)
