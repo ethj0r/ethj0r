@@ -7,5 +7,4 @@
 
 > building things.
 
-#### Let's connect
 ##### [ethjor.tech](https://www.ethjor.tech) | [LinkedIn](https://linkedin.com/in/ethjor)
