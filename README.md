@@ -3,8 +3,7 @@
 </p>
 
 ## Hi, Jordhy here 👋🏻
+##### [ethjor.tech](https://www.ethjor.tech) | [LinkedIn](https://linkedin.com/in/ethjor)
 #### Computer Science Undergraduate @ ITB
 
 > building things.
-
-##### [ethjor.tech](https://www.ethjor.tech) | [LinkedIn](https://linkedin.com/in/ethjor)
