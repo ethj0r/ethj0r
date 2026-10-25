@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <title>Portfolio</title>
+  <rect width="48" height="48" rx="11" fill="#242938"/>
+  <circle cx="24" cy="24" r="15" stroke="#61AFEF" stroke-width="2.5"/>
+  <ellipse cx="24" cy="24" rx="6.5" ry="15" stroke="#61AFEF" stroke-width="2.5"/>
+  <path d="M10 19h28M10 29h28" stroke="#61AFEF" stroke-width="2.5"/>
+</svg>
