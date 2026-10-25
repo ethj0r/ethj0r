@@ -1,6 +1,4 @@
 <div align="center">
-  <p><sub>SOFTWARE ENGINEERING · BACKEND SYSTEMS · APPLIED AI</sub></p>
-
   <h1>Hi, I'm Jordhy.</h1>
 
   <p>Computer Science Undergraduate @ <b>Institut Teknologi Bandung</b></p>
@@ -22,35 +20,11 @@
 
 ---
 
-### Education
-
-- **Institut Teknologi Bandung** — B.E. in Informatics Engineering, Aug 2024–present. GPA: **3.79 / 4.00**.
-- **Member of HMIF ITB & IEEE ITB Student Branch.**
-
-<br>
-
 ### Awards
 
 - **Top 20 — AI Innovation Challenge, COMPFEST 18 (2026)** — Built **[SIENA](https://github.com/MichaelJamesL/aic-compfest-26)**, a predictive-maintenance platform combining sensor anomaly detection, pgvector RAG, and a MobileNetV3 defect classifier with human-approved work orders.
 - **Semifinalist — AI Open Innovation Challenge, President University (July 2026)** — Built **JakaLink**, an AI-powered transit platform with multimodal trip planning, ETA and crowding forecasts, and live rerouting.
 - **2nd Place — Hackfest 2026, Ciputra University (April 2026)** — Built **[CarbonLink](https://github.com/ethj0r/WorkLifeBalance)**, a carbon-credit verification platform for smallholder agroforestry using aerial tree detection, NDVI, and carbon estimation.
-
-<br>
-
-### Experience
-
-- **Software Engineering Laboratory Assistant — STEI ITB** · Aug 2026–present. Mentor IF2150 teams through requirements, UML design, implementation, testing, and collaborative Git workflows.
-- **DevOps Engineer (Technology Development) — Inkubator IT** · May 2026–present. Build CI/CD pipelines with GitHub Actions and Docker, operate applications on Cloudflare, and integrate AWS SES for transactional email.
-- **Software Engineer — Concorde Systems** · May 2026–present. Own backend development for ConcordeOS, an offline-first industrial maintenance platform, using Go, Chi, sqlc, and Supabase; design APIs, authentication, and synchronization.
-
-<br>
-
-### Leadership & Activities
-
-- **Director of Technology — The Sandbox 3.0** · Nov 2025–May 2026. Led a competition platform for **400+ users**, including registration, multi-stage submissions, and an internal verification dashboard.
-- **Software Engineering Curriculum Developer — Arkavidia** · May 2026–present. Design hands-on sessions on backend architecture, API integration, and production deployment.
-- **Full-Stack Developer — TEDxITB 9.0** · Nov 2025–May 2026. Built registration and content-discovery flows, API integrations, database logic, and responsive interfaces.
-- **Full-Stack Developer — IEEE ITB Student Branch** · Aug 2025–June 2026. Engineered IEEE Paper Explorer, a pipeline that fetches, processes, and displays live research-paper data from the IEEE API.
 
 <br>
 
@@ -85,7 +59,7 @@
 <br>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Jordhy's 3D GitHub contribution calendar, language distribution, and activity statistics" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="Jordhy's 3D GitHub contribution calendar, language distribution, and activity statistics" />
 </div>
 
 <br>
