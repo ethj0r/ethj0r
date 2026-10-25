@@ -1,21 +1,26 @@
 <div align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Hacker Workspace Banner" />
+  <p><sub>SOFTWARE ENGINEERING · BACKEND SYSTEMS · APPLIED AI</sub></p>
 
-  <br><br>
+  <h1>Hi, I'm Jordhy.</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=Software+Engineering+%26+Backend+Systems;DevOps+%26+Applied+Artificial+Intelligence;Informatics+%40+Institut+Teknologi+Bandung" alt="Software Engineering &amp; Backend Systems; DevOps &amp; Applied Artificial Intelligence; Informatics at ITB" />
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
+  <p>Computer Science Undergraduate @ <b>Institut Teknologi Bandung</b></p>
 
   <p>
-    Hi, I'm <b>Made Branenda Jordhy</b> — an Informatics student at <b>Institut Teknologi Bandung (ITB)</b>.<br>
-    I build backend systems, full-stack applications, and deployment pipelines, with a growing focus on <b>applied Artificial Intelligence</b>. Currently working on industrial maintenance software, cloud infrastructure, and helping student teams ship better software.
+    <b>Learning relentlessly. Building intentionally.</b><br>
+    Interested in data science, machine learning, and software engineering.<br>
+    Building backend systems, thoughtful applications, and the infrastructure behind them.
   </p>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
+  <br>
+
+  <a href="https://ethjor.tech"><b>Explore my work ↗</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://ethjor.tech/resume.pdf">Résumé ↗</a>
 </div>
 
 <br>
+
+---
 
 ### Education
 
@@ -53,15 +58,27 @@
 
 #### AI & Intelligent Systems
 
+- **[Sietch](https://github.com/ethj0r/sietch)** — Internship discovery and application tracker with CV matching, evidence-checked résumé tailoring, and cover-letter generation. Built with React, TypeScript, Cloudflare Workers, D1, and Workers AI.
 - **[Eigen Pustaka](https://github.com/ethj0r/IF2123-Geometric-and-Linear-Algebra-EIGENPUSTAKA)** — Book discovery engine with TF-IDF + LSA text search, PCA image search, and personalized recommendations. Linear algebra implemented from scratch, served through Next.js and FastAPI.
+- **[Clearo](https://github.com/ethj0r/Clearo)** — Pomodoro productivity app with webcam-based distraction detection using TensorFlow.js and COCO-SSD, plus points, streaks, and session history. React, Express, and PostgreSQL. [Live demo ↗](https://clearo-by-ethjor.vercel.app)
+- **[3D Packing Optimizer](https://github.com/ethj0r/IF3170_G06_JensensLeatherJackets)** — Package-placement optimization using hill climbing, simulated annealing, and genetic algorithms, with a Streamlit interface for 3D visualization and experiment comparison.
+- **[Battlecode 2025 Bots](https://github.com/ethj0r/Tubes1_opentowork)** — Three Java strategy bots exploring economy-first, paint-first, and nearest-first greedy policies, with Bug2 navigation and inter-unit communication in the main bot.
+- **[CarbonLink](https://github.com/ethj0r/WorkLifeBalance)** — Carbon-credit MRV platform for Indonesian agroforestry, combining DeepForest tree detection, NDVI, polygon mapping, and carbon estimation through Next.js and FastAPI.
 
 #### Algorithms & Visualization
 
-- **[domTraverse](https://github.com/ethj0r/Tubes2_PengenLibur_FE)** — DOM traversal visualizer with animated BFS/DFS, a custom CSS-selector engine, and Lowest Common Ancestor computation. Built with Next.js and Go, Dockerized on Azure.
+- **[domTraverse](https://github.com/ethj0r/Tubes2_PengenLibur_FE)** — DOM traversal visualizer with animated BFS/DFS, a custom CSS-selector engine, and Lowest Common Ancestor computation. Built with Next.js and Go, Dockerized on Azure. [Backend ↗](https://github.com/ethj0r/Tubes2_PengenLibur_BE)
 - **[VeilGuard](https://github.com/ethj0r/Tubes3_LeGamblers)** — Chromium extension that detects online gambling content in the live DOM using hand-implemented Knuth–Morris–Pratt and Boyer–Moore string-matching algorithms.
+- **[Voxelith](https://github.com/ethj0r/Tucil2_13524026_13524104)** — C++17 mesh-to-voxel converter using recursive octree subdivision and empty-region pruning, with OBJ import/export and raylib visualization.
+- **[Ice Sliding Puzzle Solver](https://github.com/jenka-h/Tucil3_13524026_1354110)** — C++ pathfinding solver comparing UCS, greedy best-first search, and A* with five heuristics and a raylib interface for step-by-step visualization.
+- **[Queens](https://github.com/ethj0r/Tucil1_13524026)** — Pure brute-force solver for LinkedIn's Queens puzzle, with a Go/Fyne desktop interface, CLI mode, and solution-image export.
+- **[Matrix Calculator](https://github.com/ethj0r/IF2123-Geometric-and-Linear-Algebra-MATRIX-CALCULATOR)** — JavaFX desktop toolkit for linear systems, determinants, inverses, interpolation, polynomial regression, and seamless image cloning through Poisson image editing.
 
 #### Software & Systems
 
+- **[PostgreSQL Management Platform](https://github.com/ethj0r/IF3110-K02-01)** — Go and React workspace for database inspection, transactional migrations, schema comparison, and query-plan analysis, with group-based access and encrypted connection management.
+- **[Arion Compiler](https://github.com/ethj0r/IF2224-TBFO-Arion_Compiler)** — C++ compiler-interpreter for a Pascal-like language, covering lexical and syntax analysis, type checking, stack-machine code generation, and execution on a custom virtual machine.
+- **[GRODDIT](https://github.com/ethj0r/IF2110-Algorithm-and-Programming-II-GRODDIT)** — Terminal-based social platform in C with nested discussions, voting, heap-based feeds, trie-based search, and graph-based friend recommendations.
 - **Source, please?** — Real-time multiplayer media-literacy game built for UNESCO Youth Hackathon 2026. Uses a server-clocked round engine on Cloudflare Durable Objects, PartyServer WebSockets, and Supabase for authentication, EXP, and leaderboards.
 - **[YAREU](https://github.com/ethj0r/IF2150-Software-Engineering-YAREU)** — Sustainability platform unifying buy/sell, donations, and trade-in workflows, built with Python, Flet, PostgreSQL, and modular MVC architecture.
 
@@ -73,9 +90,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
-</div>
+---
 
 <br>
 
