@@ -1,12 +1,11 @@
 <div align="center">
-  <h1>Hi, I'm Jordhy.</h1>
+  <h1>Hi, Jordhy here 👋🏻</h1>
 
   <p>Computer Science Undergraduate @ <b>Institut Teknologi Bandung</b></p>
 
   <p>
     <b>Learning relentlessly. Building intentionally.</b><br>
     Interested in data science, machine learning, and software engineering.<br>
-    Building backend systems, thoughtful applications, and the infrastructure behind them.
   </p>
 
   <br>
